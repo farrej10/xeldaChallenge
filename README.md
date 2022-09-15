@@ -83,7 +83,7 @@ index = {
 
 ```
 
-You can see hello is in a lot of.
+You can see hello is in a lot of articles.
 
 
 # The Good Bad and Ugly
